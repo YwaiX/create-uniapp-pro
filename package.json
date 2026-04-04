@@ -1,0 +1,23 @@
+{
+  "name": "create-uniapp",
+  "version": "1.0.0",
+  "description": "基于uniapp搭建的app基础项目",
+  "main": "index.js",
+  "author": "YwaiX",
+  "homepage": "https://blog.csdn.net/Y_3405230389?type=blog",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "create-uniapp": "bin/index.js"
+  },
+  "keywords": [
+    "uniapp",
+    "vite",
+    "vue",
+    "javascript",
+    "typescript"
+  ],
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
