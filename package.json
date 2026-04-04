@@ -1,5 +1,5 @@
 {
-  "name": "create-uniapp-cli",
+  "name": "create-uniapp-pro",
   "version": "1.0.0",
   "description": "基于uniapp搭建的app基础项目",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "type": "module",
   "bin": {
-    "create-uniapp-cli": "bin/index.js"
+    "create-uniapp-pro": "bin/index.js"
   },
   "keywords": [
     "uniapp",
