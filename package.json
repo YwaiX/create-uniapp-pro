@@ -1,6 +1,6 @@
 {
   "name": "create-uniapp-pro",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "基于uniapp搭建的app基础项目",
   "main": "index.js",
   "author": "YwaiX",
@@ -16,6 +16,13 @@
     "vue",
     "javascript",
     "typescript"
+  ],
+  "files": [
+    "bin/",
+    "lib/",
+    "template/",
+    "package.json",
+    "README.md"
   ],
   "dependencies": {
     "prompts": "^2.4.2"
